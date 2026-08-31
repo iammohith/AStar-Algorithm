@@ -15,7 +15,6 @@ This project implements the **A* (A-Star) Algorithm** for pathfinding in a grid-
   - [A* Exploration Pattern](#a-exploration-pattern)
   - [Distances from A* Algorithm](#distances-from-a-algorithm)
   - [Shortest Path](#shortest-path)
-  - [Shortest Path Simulation](#shortest-path-simulation)
 - [License](#license)
 - [Acknowledgments](#acknowledgments)
 - [References](#references)
@@ -122,9 +121,6 @@ The project consists of the following MATLAB functions:
 
 ### Shortest Path
 ![Shortest Path](Shortest_Path.png)
-
-### Shortest Path Simulation
-![Shortest Path Simulation](Shortest_Path_Simulation.gif)
 
 ## License
 This project is licensed under the MIT License. See the LICENSE file for details.
